@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on: Web development projects, including building responsive websites and web applications for a variety of clients.<br>👯 I’m looking to collaborate on: Open-source projects or innovative ideas where I can contribute my skills in front-end and back-end development.<br>🤝 I’m looking for help with: Expanding my knowledge of cutting-edge technologies like AI integrations and advanced frameworks.<br>🌱 I’m currently learning: Next.js, TypeScript, and diving deeper into cloud technologies like AWS and serverless architecture.<br>💬 Ask me about: Anything related to web development, JavaScript frameworks, or tips for optimizing website performance.<br>⚡ Fun fact: I can debug a website faster than I can cook instant noodles—but I’m working on improving both!
 
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muzzamil00) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/muxxamil_jawaid/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muzzamil-javeed-60577423b/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21051647/muzzamil-javeed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/JaveedMuzz74366) 
@@ -15,4 +16,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=muzzamil-javeed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
